@@ -10,7 +10,7 @@ Asegúrate de tener instalado Python 3.6 o posterior. También necesitarás inst
 ## Archivos
 
 - `tetris.py`: El archivo principal que contiene el código del juego Tetris.
-- `Tetris.mp3`: Un archivo de música (no incluido) para el tema de Tetris. Asegúrate de agregar tu propio archivo MP3 de música Tetris y actualizar el nombre del archivo en el código si es necesario.
+- `Tetris.mp3`: Archivo de música para el theme de Tetris.
 
 ## Ejecución
 
