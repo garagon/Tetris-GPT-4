@@ -5,7 +5,7 @@ Este es un juego de Tetris simple creado con la ayuda de Python, Pygame y GTP-4
 
 Asegúrate de tener instalado Python 3.6 o posterior. También necesitarás instalar Pygame:
 
-pip install pygame
+`pip install pygame`
 
 ## Archivos
 
@@ -16,6 +16,6 @@ pip install pygame
 
 Para ejecutar el juego, simplemente navega hasta la carpeta que contiene el archivo `tetris.py` y ejecuta el siguiente comando en la terminal:
 
-python tetris.py
+`python tetris.py`
 
 Diviértete jugando a esta versión de Tetris!
